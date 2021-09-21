@@ -24,7 +24,7 @@ CitiBike offers two different options for its users, a subscription service wher
 
 Here we see again that male subscribers ride the bikes most often. What's notable here is that non-subscribers tend to use the bikes most on the weekends. This should inform pricing strategies and marketing. Clearly subscribers are more likely to use the bikes on their daily commutes.
 
-![Checkout Time for Users](https://github.com/deklund76/bikesharing/blob/main/resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
+![Checkout Time for Users](https://github.com/deklund76/bikesharing/blob/main/resources/Checkout%20time%20for%20Users.png)
 
 This information is also valuable for determining pricing. The above chart shows that the most common CitiBike trip lasts only 5 minutes. Although many thousands will last longer it's clearly important to have a large number of stations as people tend to not travel particularily far on a given trip.
 
