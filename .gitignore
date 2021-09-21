@@ -1,0 +1,4 @@
+# Don't upload big data files
+data/201908-citibike-tripdata.csv
+
+data/201908-citibike-tripdata-edit.csv
