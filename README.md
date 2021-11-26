@@ -34,7 +34,7 @@ Digging into the trip duration data further and recalling the heatmaps we have a
 
 ![Bike Utilization](https://github.com/deklund76/bikesharing/blob/main/resources/Bike%20Utilization.png)
 
-We've talked a lot accessibility and revenue potential so far, but the key to profit as we all know is revenue minus expenditures. Besides start-up costs, one of the major expenditures will be recurring maintenance on the bikes themselves. This Visualization should put to rest any fears of out-of-control costs. The larger redder, circles represent the bikes with the most use (time checked out). It's clear from this data that a relatively small number of bikes bear the brunt of the burden meaning repairs shouldn't have a major impact on bike supply and those needing repairs can go for quite some time without them (Note trip duration here is represented in seconds).
+We've talked a lot accessibility and revenue potential so far, but the key to profit is revenue minus expenditures. Besides start-up costs, one of the major expenditures will be recurring maintenance on the bikes themselves. This Visualization should put to rest any fears of out-of-control costs. The larger redder, circles represent the bikes with the most use (time checked out). It's clear from this data that a relatively small number of bikes bear the brunt of the burden meaning repairs shouldn't have a major impact on bike supply and those needing repairs can go for quite some time without them (Note trip duration here is represented in seconds).
 
 ## Summary
 
